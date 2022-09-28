@@ -63,6 +63,10 @@
 
 
 
+  
+<link rel="stylesheet" href="/css/waline.css">
+
+
 
   <script id="fluid-configs">
     var Fluid = window.Fluid || {};
@@ -284,7 +288,7 @@
       Fluid.utils.createCssLink('https://lib.baomitu.com/waline/2.6.3/waline.min.css')
       Fluid.utils.createScript('https://lib.baomitu.com/waline/2.6.3/waline.min.js', function() {
         var options = Object.assign(
-          {"serverURL":"https://starfate2022.vercel.app/","path":"window.location.pathname","meta":["nick","mail","link"],"requiredMeta":["nick"],"lang":"zh-CN","emoji":["https://cdn.jsdelivr.net/gh/walinejs/emojis/weibo"],"dark":"html[data-user-color-scheme=\"dark\"]","wordLimit":0,"pageSize":10},
+          {"serverURL":"https://starfate2022.vercel.app/","path":"window.location.pathname","meta":["nick","mail","link"],"requiredMeta":["nick"],"lang":"zh-CN","emoji":["https://cdn.jsdelivr.net/gh/walinejs/emojis/weibo"],"dark":"html[data-user-color-scheme=\"dark\"]","wordLimit":0,"pageSize":10,"el":""},
           {
             el: '#waline',
             path: window.location.pathname
@@ -478,6 +482,10 @@
   <script  src="/js/local-search.js" ></script>
 
 
+
+
+  
+<script src="/js/waline.js"></script>
 
 
 
