@@ -4,11 +4,24 @@
   
   
   <entry>
+    <title>test</title>
+    <link href="/2022/09/29/test/"/>
+    <url>/2022/09/29/test/</url>
+    
+    <content type="html"><![CDATA[<p><img src="/.io//diga.jpg" alt="fasd"><br><img src="/.io//_posts/test/diga.jpg" alt="c"></p>]]></content>
+    
+    
+    
+  </entry>
+  
+  
+  
+  <entry>
     <title>我和你的小空间今日建成</title>
     <link href="/2022/09/28/success/"/>
     <url>/2022/09/28/success/</url>
     
-    <content type="html"><![CDATA[<p>磕磕绊绊，断断续续，终于，大致建站成功。</p><p>宝贝，这里将记录我们的点滴。<br><img src="/.io//09/28/success.png" alt="图像"></p>]]></content>
+    <content type="html"><![CDATA[<p>磕磕绊绊，断断续续，终于，大致建站成功。</p><p>宝贝，这里将记录我们的点滴。<br><img src="/.io//_posts/success/success.png" alt="图像"><br><img src="/.io//success.png" alt="Lena"></p>]]></content>
     
     
     
